@@ -1,6 +1,8 @@
 #include <iostream>
 #include "std.h"
 
+
+/*программа является учебной*/
 int main() {
     int num1, num2;
 
